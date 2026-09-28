@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Giới thiệu bản thân</title>
+</head>
+
+<body>
+
+    <!-- Tiêu đề chính -->
+    <h1>Trương Thanh Phong</h1>
+
+    <!-- Ảnh đại diện -->
+    <img src="d2755ac07ea9fef7a7b8.jpg" alt="Ảnh đại diện của Trương Thanh Phong" width="200">
+
+    <!-- Giới thiệu -->
+    <h3>Giới thiệu bản thân</h3>
+
+    <p>
+        Xin chào! Mình là <strong>Trương Thanh Phong</strong>.
+        Mình là một người yêu thích công nghệ và lập trình.
+    </p>
+
+    <!-- Danh sách sở thích -->
+    <h3>Sở thích</h3>
+
+    <ul>
+        <li>Đá banh</li>
+        <li>Nghe nhạc</li>
+        <li>Chơi game</li>
+        <li>Xem phim</li>
+        <li>Đi chơi</li>
+    </ul>
+
+    <!-- Thời khóa biểu -->
+    <h3>Thời khóa biểu</h3>
+
+    <table border="1">
+        <tr>
+            <th>Thứ</th>
+            <th>Buổi sáng</th>
+            <th>Buổi chiều</th>
+        </tr>
+
+        <tr>
+            <td>Thứ 2</td>
+            <td>Lập trình Web</td>
+            <td>Toán</td>
+        </tr>
+
+        <tr>
+            <td>Thứ 3</td>
+            <td>Cơ sở dữ liệu</td>
+            <td>Lập trình JavaScript</td>
+        </tr>
+
+        <tr>
+            <td>Thứ 4</td>
+            <td>Tiếng Anh</td>
+            <td>Thể dục</td>
+        </tr>
+
+        <tr>
+            <td>Thứ 5</td>
+            <td>Lập trình Web</td>
+            <td>Cơ sở dữ liệu</td>
+        </tr>
+
+        <tr>
+            <td>Thứ 6</td>
+            <td>JavaScript</td>
+            <td>Tự học</td>
+        </tr>
+    </table>
+
+    <!-- Liên kết mạng xã hội -->
+    <h3>Mạng xã hội</h3>
+
+    <p>
+        Facebook:
+        <a href="https://www.facebook.com/TrươngThanhPhong" target="_blank">
+</a>
+
+    </p>
